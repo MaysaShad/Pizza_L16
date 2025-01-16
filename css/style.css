@@ -28,3 +28,18 @@
     box-shadow: inset 130px 130px 130px rgba(12, 8, 8, 0.7);
 }
 
+.bg-image {
+    background-image: url('../img/01.jpg');
+    background-color: #000000;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.header-margin-bottom {
+    margin-bottom: 5rem;
+}
+
+.header-margin-top {
+    margin-top: -5rem;
+}
