@@ -7,7 +7,7 @@
 }
 
 .bg-shadow {
-    background-color: rgba(0, 0, 0, .1);
+    background-color: rgba(0, 0, 0, .2);
 }
 .image-container {
      position: relative;
@@ -30,6 +30,13 @@
 
 .bg-image {
     background-image: url('../img/01.jpg');
+    background-color: #000000;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.bg-image1 {
+    background-image: url('../img/04.jpg');
     background-color: #000000;
     background-repeat: no-repeat;
     background-position: center;
